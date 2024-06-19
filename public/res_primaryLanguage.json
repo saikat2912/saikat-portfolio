@@ -35,14 +35,14 @@
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "title": "Custom GPT",
+        "startDate": "2023",
+        "description": "Personal project for study subject. I made a GPT clone similar to Gemini. I have made this project in React JS . It has the features to type prompts and get the results.I have used Gemini API's for it.Hope you like😊",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/portfolio/gpt/home.png",
+          "images/portfolio/gpt/prompts.png"
         ],
-        "url": "https://github.com",
+        "url": "http://gemini-clone-s3.s3-website.ap-south-1.amazonaws.com/",
         "technologies": [
           {
             "class": "devicon-react-original",
@@ -55,26 +55,22 @@
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "Youtube Bookmark Chrome Extension",
+        "startDate": "2023",
+        "description": "This is one of my personal project.I have made an extension that can be used to bookmark youtube videos timelines.I have used Manifest V3 in this and coded it in Javascript.",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/youtube-bookmark/home.jpg",
+          ""
         ],
-        "url": "https://github.com",
+        "url": "https://github.com/saikat2912/youtube-bookmark-chrome",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "evicon-javascript-plain",
+            "name": "JavaScript"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-html5-plain",
+            "name": "HTML"
           }
         ]
       }
