@@ -1,0 +1,116 @@
+{
+    "basic_info": {
+      "description_header": "Hi",
+      "description": "👋 I'm Saikat Pattanaik. A seasoned Full Stack Developer with extensive experience in building robust web applications using React.js for front-end development and Spring Boot for back-end services. Proficient in Java and JavaScript, with a deep understanding of modern web technologies and best practices.. Thank you 💜",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "Sooth",
+        "startDate": "2023",
+        "description": "",
+        "images": [
+          "images/portfolio/sooth/sooth1.png"
+          
+        ],
+        "url": "https://sooth.fyi/",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React JS"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-dot-net-plain",
+            "name": "Dot Net"
+          }
+        ]
+      },
+      {
+        "title": "Photography",
+        "startDate": "2018",
+        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "images": [
+          "images/portfolio/photography/p1.jpg",
+          "images/portfolio/photography/p2.jpg"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "3D Object Viewer",
+        "startDate": "2015",
+        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "images": [
+          "images/portfolio/adventure/p1.jpg",
+          "images/portfolio/adventure/p2.jpg"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-angularjs-plain",
+            "name": "Angular"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-csharp-plain",
+            "name": "C#"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Upkarak Tech Solutions",
+        "title": "Front-End Developer",
+        "years": "1.2023- 3.2023",
+        "mainTech": [
+          "React Js"
+        ],
+        "technologies": [
+          "REST API",
+          "JavaScript",
+          "Bootstrap",
+          "Material UI",
+          "DotNet"
+        
+        ]
+      },
+      {
+        "company": "Infosys Private Limited",
+        "title": "System Engineer",
+        "years": "01.2021 - 05.2022",
+        "mainTech": [
+          "React Js 7/8",
+          "Spring Boot"
+        ],
+        "technologies": [
+          "JavaScript",
+          "Java",
+          "MYSQL",
+          "Azure",
+          "Agile Methodology"
+        ]
+      }
+    ]
+  }

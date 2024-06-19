@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/saikat-portfolio/static/css/main.db6f0745.chunk.css",
+    "main.js": "/saikat-portfolio/static/js/main.92b0126c.chunk.js",
+    "main.js.map": "/saikat-portfolio/static/js/main.92b0126c.chunk.js.map",
+    "runtime-main.js": "/saikat-portfolio/static/js/runtime-main.ad201220.js",
+    "runtime-main.js.map": "/saikat-portfolio/static/js/runtime-main.ad201220.js.map",
+    "static/css/2.d64471e2.chunk.css": "/saikat-portfolio/static/css/2.d64471e2.chunk.css",
+    "static/js/2.680b5717.chunk.js": "/saikat-portfolio/static/js/2.680b5717.chunk.js",
+    "static/js/2.680b5717.chunk.js.map": "/saikat-portfolio/static/js/2.680b5717.chunk.js.map",
+    "index.html": "/saikat-portfolio/index.html",
+    "precache-manifest.745b47d98be5e289d2097768bed439f1.js": "/saikat-portfolio/precache-manifest.745b47d98be5e289d2097768bed439f1.js",
+    "service-worker.js": "/saikat-portfolio/service-worker.js",
+    "static/css/2.d64471e2.chunk.css.map": "/saikat-portfolio/static/css/2.d64471e2.chunk.css.map",
+    "static/css/main.db6f0745.chunk.css.map": "/saikat-portfolio/static/css/main.db6f0745.chunk.css.map",
+    "static/js/2.680b5717.chunk.js.LICENSE.txt": "/saikat-portfolio/static/js/2.680b5717.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ad201220.js",
+    "static/css/2.d64471e2.chunk.css",
+    "static/js/2.680b5717.chunk.js",
+    "static/css/main.db6f0745.chunk.css",
+    "static/js/main.92b0126c.chunk.js"
+  ]
+}
