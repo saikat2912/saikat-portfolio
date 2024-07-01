@@ -1,116 +1,112 @@
 {
-    "basic_info": {
-      "description_header": "Cześć",
-      "description": "👋 Jestem Davina Griss. Fikcyjna osoba na potrzeby demonstracji. Pracuję z najnowszymi frameworkami front-end takimi jak Angular, React i Vue. To co teraz widzisz to szablon portfolio od Dorota1997. Jeżeli podoba Ci się ten szablon portfolio nie zapomnij o ⭐, żeby było bardziej rozpoznawalne dla innych użytkowników. Dzięki 💜",
-      "section_name": {
-        "about": "O mnie",
-        "projects": "Projekty",
-        "skills": "Umiejętności",
-        "experience": "Doświadczenie"
-      }
+  "basic_info": {
+    "description_header": "Hi",
+    "description": "👋 I'm Saikat Pattanaik. A seasoned Full Stack Developer with extensive experience in building robust web applications using React.js for front-end development and Spring Boot for back-end services. Proficient in Java and JavaScript, with a deep understanding of modern web technologies and best practices.. Thank you 💜",
+    "section_name": {
+      "about": "About me",
+      "projects": "Projects",
+      "skills": "Skills",
+      "experience": "Experience"
+    }
+  },
+  "projects": [
+    {
+      "title": "Sooth",
+      "startDate": "2023",
+      "description": "",
+      "images": [
+        "images/portfolio/sooth/sooth1.png"
+        
+      ],
+      "url": "https://sooth.fyi/",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React JS"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-dot-net-plain",
+          "name": "Dot Net"
+        }
+      ]
     },
-    "projects": [
-      {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "Najbardziej rozbudowana aplikacja nad którą miałam okazję pracować. Poznałam dużo technologii a mój kod by sprawdzany przez super opiekuna. Aplikacja obsługuje wszystkie procesy adopcji i pozwala na przechowywanie wszelkiej dokumentacji związanej z adopcją zwierząt ze schroniska.",
-        "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
-        ],
-        "url": "",
-        "technologies": [
-          {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      },
-      {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Osobisty projekt na przedmiot ze studiów. Byłam odpowiedzilna za testowanie aplikacji, która optymalizuje zdjęcia z pomocą popularnych algorytmów używanych przed edytory grafiki takie jak Pixlr czy Adobe Photoshop. Otrzymałam 5-tkę za projekt :)",
-        "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-react-original",
-            "name": "React"
-          },
-          {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
-          }
-        ]
-      },
-      {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "Jedna z pierwszych aplikacji nad którymi pracowałam na stażu. Musiałam przygotować front-end dla aplikacji, która pokazuje modele 3D znanych budynków. To był także mój pierwszy projekt w frameworku Angular. Dużo się nauczyłam!",
-        "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      }
-    ],
-    "experience": [
-      {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - obecnie",
-        "mainTech": [
-          "Angular 8/9/10"
-        ],
-        "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          "Angular Material"
-        ]
-      },
-      {
-        "company": "Serros Solutions",
-        "title": "Stażystka",
-        "years": "01.2018 - 09.2019",
-        "mainTech": [
-          "Angular 7/8"
-        ],
-        "technologies": [
-          "REST API",
-          "RxJS",
-          "Swagger",
-          "JavaScript",
-          "DHTMLX Gantt"
-        ]
-      }
-    ]
-  }
+    {
+      "title": "Custom GPT",
+      "startDate": "2023",
+      "description": "Personal project for study subject. I made a GPT clone similar to Gemini. I have made this project in React JS . It has the features to type prompts and get the results.I have used Gemini API's for it.Hope you like😊",
+      "images": [
+        "images/portfolio/gpt/home.png",
+        "images/portfolio/gpt/prompts.png"
+      ],
+      "url": "http://gemini-clone-s3.s3-website.ap-south-1.amazonaws.com/",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    },
+    {
+      "title": "Youtube Bookmark Chrome Extension",
+      "startDate": "2023",
+      "description": "This is one of my personal project.I have made an extension that can be used to bookmark youtube videos timelines.I have used Manifest V3 in this and coded it in Javascript.",
+      "images": [
+        "images/portfolio/youtube-bookmark/home.png",
+        ""
+      ],
+      "url": "https://github.com/saikat2912/youtube-bookmark-chrome",
+      "technologies": [
+        {
+          "class": "evicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "Upkarak Tech Solutions",
+      "title": "Front-End Developer",
+      "years": "1.2023- 3.2023",
+      "mainTech": [
+        "React Js"
+      ],
+      "technologies": [
+        "REST API",
+        "JavaScript",
+        "Bootstrap",
+        "Material UI",
+        "DotNet"
+      
+      ]
+    },
+    {
+      "company": "Infosys Private Limited",
+      "title": "System Engineer",
+      "years": "01.2021 - 05.2022",
+      "mainTech": [
+        "React Js 7/8",
+        "Spring Boot"
+      ],
+      "technologies": [
+        "JavaScript",
+        "Java",
+        "MYSQL",
+        "Azure",
+        "Agile Methodology"
+      ]
+    }
+  ]
+}
