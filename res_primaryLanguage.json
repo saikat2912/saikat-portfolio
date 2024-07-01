@@ -59,7 +59,7 @@
         "startDate": "2023",
         "description": "This is one of my personal project.I have made an extension that can be used to bookmark youtube videos timelines.I have used Manifest V3 in this and coded it in Javascript.",
         "images": [
-          "images/portfolio/youtube-bookmark/home.jpg",
+          "images/portfolio/youtube-bookmark/home.png",
           ""
         ],
         "url": "https://github.com/saikat2912/youtube-bookmark-chrome",
