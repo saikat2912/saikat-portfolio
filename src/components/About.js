@@ -29,7 +29,7 @@ class About extends Component {
                   <img
                     height="250px"
                     src={profilepic}
-                    alt="Avatar placeholder"
+                    alt="Profile Image"
                   />
                   <Icon
                     icon={javascriptIcon}
